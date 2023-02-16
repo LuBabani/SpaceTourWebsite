@@ -13,3 +13,5 @@ Day01. I added the Home page HTML I basically went over it, typed the structure 
 Day02. Couldn`t get to code - Had a log day at Uni and at programing school!
 
 Day03. I watched the videos for the discovery pages, Love how the instructor explains, he really loves this project! Tryied to write the HTML at my own. Did well on the first page, but got bored... Copy+paste the pages Titan, Mars and Europe... =(
+I planned to leave the other HTML writing for tomorrow, but reconsidering. trying to add HTML content today, so tomorrow I can start to work on the REAL DEAL - the CSS!
+I am writing the main page most of it by hand, and the secondary pages copy+past the HTML.
